@@ -1,0 +1,8 @@
+# Environment
+.env
+
+# Output
+/build
+
+# Node Modules
+/node_modules
